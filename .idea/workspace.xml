@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e74835a-41f1-47ca-8a34-a01165bc1dbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bE5ZC11RlvbWjTTgcp95xTtYwz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.flywieght_factory.project" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.flywieght_factory.project.Main" />
+      <module name="flyweightFactory" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpellFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flyweightFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flywieght_factory.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flywieght_factory.project" />
+      <option name="MAIN_CLASS_NAME" value="com.flywieght_factory.project.SpellFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpellFactoryTest.RequestAllSpellsGetAllSpells" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flyweightFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flywieght_factory.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flywieght_factory.project" />
+      <option name="MAIN_CLASS_NAME" value="com.flywieght_factory.project.SpellFactoryTest" />
+      <option name="METHOD_NAME" value="RequestAllSpellsGetAllSpells" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpellFactoryTest.RequestFlyingSpellGetFlyingSpell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flyweightFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flywieght_factory.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flywieght_factory.project" />
+      <option name="MAIN_CLASS_NAME" value="com.flywieght_factory.project.SpellFactoryTest" />
+      <option name="METHOD_NAME" value="RequestFlyingSpellGetFlyingSpell" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpellShopTest.Make20SpellsGet20Spells" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flyweightFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flywieght_factory.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flywieght_factory.project" />
+      <option name="MAIN_CLASS_NAME" value="com.flywieght_factory.project.SpellShopTest" />
+      <option name="METHOD_NAME" value="Make20SpellsGet20Spells" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SpellFactoryTest.RequestAllSpellsGetAllSpells" />
+        <item itemvalue="JUnit.SpellFactoryTest" />
+        <item itemvalue="JUnit.SpellFactoryTest.RequestFlyingSpellGetFlyingSpell" />
+        <item itemvalue="JUnit.SpellShopTest.Make20SpellsGet20Spells" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e74835a-41f1-47ca-8a34-a01165bc1dbc" name="Default Changelist" comment="" />
+      <created>1588184466018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588184466018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1588191925298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040/1920.-100.1920.1040@0.0.1920.1040" timestamp="1588191925298" />
+    <state x="2685" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1588264102505">
+      <screen x="1920" y="-100" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-100.1920.1040@0.0.1920.1040" timestamp="1588191793913" />
+    <state x="2685" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-100.1920.1040@1920.-100.1920.1040" timestamp="1588264102505" />
+    <state x="2660" y="162" key="FileChooserDialogImpl" timestamp="1588264325661">
+      <screen x="1920" y="-100" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="162" key="FileChooserDialogImpl/0.0.1920.1040/1920.-100.1920.1040@1920.-100.1920.1040" timestamp="1588264325661" />
+    <state width="1877" height="377" key="GridCell.Tab.0.bottom" timestamp="1588265164077">
+      <screen x="1920" y="-100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-100.1920.1040@0.0.1920.1040" timestamp="1588228463685" />
+    <state width="1877" height="377" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-100.1920.1040@1920.-100.1920.1040" timestamp="1588265164077" />
+    <state width="1877" height="377" key="GridCell.Tab.0.center" timestamp="1588265164076">
+      <screen x="1920" y="-100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-100.1920.1040@0.0.1920.1040" timestamp="1588228463685" />
+    <state width="1877" height="377" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-100.1920.1040@1920.-100.1920.1040" timestamp="1588265164076" />
+    <state width="1877" height="377" key="GridCell.Tab.0.left" timestamp="1588265164076">
+      <screen x="1920" y="-100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-100.1920.1040@0.0.1920.1040" timestamp="1588228463685" />
+    <state width="1877" height="377" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-100.1920.1040@1920.-100.1920.1040" timestamp="1588265164076" />
+    <state width="1877" height="377" key="GridCell.Tab.0.right" timestamp="1588265164076">
+      <screen x="1920" y="-100" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="212" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-100.1920.1040@0.0.1920.1040" timestamp="1588228463685" />
+    <state width="1877" height="377" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-100.1920.1040@1920.-100.1920.1040" timestamp="1588265164076" />
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588192315310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.-100.1920.1040@0.0.1920.1040" timestamp="1588192315310" />
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588192554937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.-100.1920.1040@0.0.1920.1040" timestamp="1588192554937" />
+  </component>
+</project>
